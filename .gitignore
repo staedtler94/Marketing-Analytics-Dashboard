@@ -1,5 +1,16 @@
+#OS Objects
+*.DS_Store
+
 #Environments
 .env
 .venv
 env/
 venv/
+
+#Complied Object Directories
+build/
+dist/
+*.pyc
+
+#Database
+*.sqlite3
