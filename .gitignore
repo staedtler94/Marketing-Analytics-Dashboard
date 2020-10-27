@@ -7,6 +7,8 @@
 env/
 venv/
 .vscode/
+*/**/migrations/
+*/**/__pycache__/
 
 #Complied Object Directories
 build/
